@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4efb4c76d8cbfcf0f4697833551fb068",
+    "revision": "61fb581ba03ed779c13b1c4da8085cff",
     "url": "/Frank_Macwan_Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Frank_Macwan_Portfolio/static/css/2.7b1f77b4.chunk.css"
   },
   {
-    "revision": "3842d5512b94c4095764",
-    "url": "/Frank_Macwan_Portfolio/static/css/main.6228f132.chunk.css"
+    "revision": "07ae10bc1109226f0f15",
+    "url": "/Frank_Macwan_Portfolio/static/css/main.e76bc19e.chunk.css"
   },
   {
     "revision": "2da052eebd7ec7304d21",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Frank_Macwan_Portfolio/static/js/2.9395fa35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3842d5512b94c4095764",
-    "url": "/Frank_Macwan_Portfolio/static/js/main.6c2d0450.chunk.js"
+    "revision": "07ae10bc1109226f0f15",
+    "url": "/Frank_Macwan_Portfolio/static/js/main.6aab9e84.chunk.js"
   },
   {
     "revision": "7f5f266ee5800d44e837",
@@ -33,7 +33,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9b3cea787cd16fe84ceb20bb91a55fc1",
-    "url": "/Frank_Macwan_Portfolio/static/media/Notes.9b3cea78.png"
+    "url": "/Frank_Macwan_Portfolio/static/media/Notes.9b3cea78.PNG"
   },
   {
     "revision": "a9afbb8add242565f287212481c8f686",
@@ -45,7 +45,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "7f506df1c81a19800dddbb62fa7c320e",
-    "url": "/Frank_Macwan_Portfolio/static/media/animenews.7f506df1.png"
+    "url": "/Frank_Macwan_Portfolio/static/media/animenews.7f506df1.PNG"
   },
   {
     "revision": "07e0b7a728546850797a4309b808bd6f",
